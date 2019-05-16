@@ -59,6 +59,17 @@
         }
       ]
     },
+    "docs/Contributors.mdx": {
+      "menu": "Contributors",
+      "id": "daf35df36aaae2e537f71e1b03c5b369",
+      "filepath": "docs/Contributors.mdx",
+      "link": null,
+      "slug": "docs-contributors",
+      "route": "/docs-contributors",
+      "name": "Contributors",
+      "order": 0,
+      "headings": []
+    },
     "docs/Image.mdx": {
       "name": "Image",
       "menu": "Components",
@@ -105,17 +116,6 @@
           "value": "Outlined"
         }
       ]
-    },
-    "docs/Contributors.mdx": {
-      "menu": "Contributors",
-      "id": "daf35df36aaae2e537f71e1b03c5b369",
-      "filepath": "docs/Contributors.mdx",
-      "link": null,
-      "slug": "docs-contributors",
-      "route": "/docs-contributors",
-      "name": "Contributors",
-      "order": 0,
-      "headings": []
     },
     "docs/Input.mdx": {
       "name": "Input",
