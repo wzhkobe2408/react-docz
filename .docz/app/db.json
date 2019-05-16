@@ -1,0 +1,190 @@
+{
+  "config": {
+    "title": "React Typescript Component Starter Kit",
+    "description": "My awesome app using docz",
+    "themeConfig": {},
+    "menu": [],
+    "ordering": "descending",
+    "version": "1.0.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "typescript": true
+  },
+  "entries": {
+    "docs/Button.mdx": {
+      "name": "Button",
+      "menu": "Components",
+      "id": "68a6b55def5e73bf0a1b7ab2a4a79f62",
+      "filepath": "docs/Button.mdx",
+      "link": null,
+      "slug": "docs-button",
+      "route": "/docs-button",
+      "order": 0,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "button",
+          "value": "Button"
+        },
+        {
+          "depth": 3,
+          "slug": "best-practices",
+          "value": "Best practices"
+        },
+        {
+          "depth": 2,
+          "slug": "properties",
+          "value": "Properties"
+        },
+        {
+          "depth": 2,
+          "slug": "basic-usage",
+          "value": "Basic usage"
+        },
+        {
+          "depth": 2,
+          "slug": "with-different-sizes",
+          "value": "With different sizes"
+        },
+        {
+          "depth": 2,
+          "slug": "with-different-colors",
+          "value": "With different colors"
+        },
+        {
+          "depth": 2,
+          "slug": "outlined",
+          "value": "Outlined"
+        }
+      ]
+    },
+    "docs/Image.mdx": {
+      "name": "Image",
+      "menu": "Components",
+      "id": "ae52b1bb4de200fa4277d92f79c523ee",
+      "filepath": "docs/Image.mdx",
+      "link": null,
+      "slug": "docs-image",
+      "route": "/docs-image",
+      "order": 0,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "image",
+          "value": "Image"
+        },
+        {
+          "depth": 3,
+          "slug": "best-practices",
+          "value": "Best practices"
+        },
+        {
+          "depth": 2,
+          "slug": "properties",
+          "value": "Properties"
+        },
+        {
+          "depth": 2,
+          "slug": "basic-usage",
+          "value": "Basic usage"
+        },
+        {
+          "depth": 2,
+          "slug": "passwords",
+          "value": "Passwords"
+        },
+        {
+          "depth": 2,
+          "slug": "with-different-colors",
+          "value": "With different colors"
+        },
+        {
+          "depth": 2,
+          "slug": "outlined",
+          "value": "Outlined"
+        }
+      ]
+    },
+    "docs/Contributors.mdx": {
+      "menu": "Contributors",
+      "id": "daf35df36aaae2e537f71e1b03c5b369",
+      "filepath": "docs/Contributors.mdx",
+      "link": null,
+      "slug": "docs-contributors",
+      "route": "/docs-contributors",
+      "name": "Contributors",
+      "order": 0,
+      "headings": []
+    },
+    "docs/Input.mdx": {
+      "name": "Input",
+      "menu": "Components",
+      "id": "c8197ea8ec9b408982a4cbbc6633ae32",
+      "filepath": "docs/Input.mdx",
+      "link": null,
+      "slug": "docs-input",
+      "route": "/docs-input",
+      "order": 0,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "input",
+          "value": "Input"
+        },
+        {
+          "depth": 3,
+          "slug": "best-practices",
+          "value": "Best practices"
+        },
+        {
+          "depth": 2,
+          "slug": "properties",
+          "value": "Properties"
+        },
+        {
+          "depth": 2,
+          "slug": "basic-usage",
+          "value": "Basic usage"
+        },
+        {
+          "depth": 2,
+          "slug": "passwords",
+          "value": "Passwords"
+        },
+        {
+          "depth": 2,
+          "slug": "with-different-colors",
+          "value": "With different colors"
+        },
+        {
+          "depth": 2,
+          "slug": "outlined",
+          "value": "Outlined"
+        }
+      ]
+    },
+    "docs/index.mdx": {
+      "name": "Getting Started",
+      "route": "/",
+      "order": 1,
+      "id": "73498ad0e1e62a714b08085d318f9de1",
+      "filepath": "docs/index.mdx",
+      "link": null,
+      "slug": "docs-index",
+      "menu": null,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "getting-started",
+          "value": "Getting Started"
+        },
+        {
+          "depth": 2,
+          "slug": "consistency",
+          "value": "Consistency"
+        }
+      ]
+    }
+  }
+}

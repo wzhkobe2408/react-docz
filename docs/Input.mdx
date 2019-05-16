@@ -1,0 +1,53 @@
+---
+name: Input
+menu: Components
+---
+
+import { Playground, PropsTable } from 'docz'
+import { Input } from '../src/components/Input'
+
+# Input
+
+Input enable user to typein or choose whatever they want
+
+### Best practices
+
+- Group buttons logically into sets based on usage and importance.
+- Ensure that button actions are clear and consistent.
+- The main action of a group set can be a primary button.
+- Select a single button variation and do not mix them.
+
+## Properties
+
+<PropsTable of={Input} />
+
+## Basic usage
+
+<Playground>
+  <Input
+    placeholder={'Placeholder...'}
+    type={'text'}
+    width={200}
+    height={50}
+  />
+</Playground>
+
+## Passwords
+
+<Playground>
+  <Input
+    placeholder={'Please Enter Password..'}
+    type={'password'}
+    height={50}
+  />
+</Playground>
+
+## With different colors
+
+<Playground>
+</Playground>
+
+## Outlined
+
+<Playground>
+</Playground>
